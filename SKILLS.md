@@ -1,6 +1,12 @@
 ---
 name: minions-projects
-description: Project definitions, variants, goals, status, and ownership
+id: OC-0144
+version: 1.0.0
+description: "Project definitions, variants, goals, status, and ownership"
+category: productivity
+subcategory: tasks
+tags: ["minion", "productivity", "tasks"]
+comments:
 ---
 
 # minions-projects — Agent Skills
