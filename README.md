@@ -1,3 +1,5 @@
+![CI](https://github.com/mxn2020/minions-projects-workspace/actions/workflows/ci.yml/badge.svg) ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 # minions-projects
 
 **Project definitions, variants, goals, status, and ownership**

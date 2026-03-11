@@ -1,0 +1,15 @@
+name: minions-projects-workspace
+project_scope: main
+project_type: monorepo
+description: "Project definitions, variants, goals, status, and ownership"
+tier: idea
+lane: minions
+priority: medium
+oss: true
+stack: [typescript]
+repo: "https://github.com/mxn2020/minions-projects"
+deploy_url: null
+last_active: 2026-02-23
+tags: [minion, toolbox, ai-agent, automation, minions, projects]
+notes: null
+id: 93b6ef88-462d-4f9c-a283-a818cd4ea34b
