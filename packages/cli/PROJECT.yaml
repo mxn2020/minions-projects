@@ -6,3 +6,4 @@ description: "CLI for minions-projects — Project definitions, variants, goals,
 priority: high
 deploy_url: null
 tags: null
+category: minion-toolbox

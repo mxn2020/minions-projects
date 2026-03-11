@@ -6,3 +6,4 @@ description: "Project definitions, variants, goals, status, and ownership"
 priority: high
 deploy_url: null
 tags: null
+category: minion-toolbox
